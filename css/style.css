@@ -43,7 +43,7 @@ body {
 	color: #fff;
 	display: block;
 	font-family: 'Arimo-Bold';
-	font-size: 60px;
+	font-size: 20px;
 	font-weight: normal;
 	height: 130px;
 	line-height: 130px;
@@ -564,7 +564,6 @@ body {
 	text-align: center;
 }
 #footer div .connect {
-	background: #387a82;
 	float: right;
 	height: 18px;
 	margin: 0 20px 0 150px;
